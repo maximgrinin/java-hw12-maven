@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="java-hw12-maven:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/java_hw12_maven_jar</output-path>
+    <root id="archive" name="java-hw12-maven.jar">
+      <element id="module-output" name="java-hw12-maven" />
+      <element id="module-test-output" name="java-hw12-maven" />
+    </root>
+  </artifact>
+</component>
